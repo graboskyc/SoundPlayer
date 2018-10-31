@@ -1,0 +1,13 @@
+C:\Users\Chris\OneDrive\Halloween\2015\SoundPlayer\SoundPlayer\SoundPlayer\bin\Debug\SoundPlayer.exe.config
+C:\Users\Chris\OneDrive\Halloween\2015\SoundPlayer\SoundPlayer\SoundPlayer\bin\Debug\SoundPlayer.exe
+C:\Users\Chris\OneDrive\Halloween\2015\SoundPlayer\SoundPlayer\SoundPlayer\bin\Debug\SoundPlayer.pdb
+C:\Users\Chris\OneDrive\Halloween\2015\SoundPlayer\SoundPlayer\SoundPlayer\obj\Debug\SoundPlayer.csprojResolveAssemblyReference.cache
+C:\Users\Chris\OneDrive\Halloween\2015\SoundPlayer\SoundPlayer\SoundPlayer\obj\Debug\MainWindow.baml
+C:\Users\Chris\OneDrive\Halloween\2015\SoundPlayer\SoundPlayer\SoundPlayer\obj\Debug\MainWindow.g.cs
+C:\Users\Chris\OneDrive\Halloween\2015\SoundPlayer\SoundPlayer\SoundPlayer\obj\Debug\App.g.cs
+C:\Users\Chris\OneDrive\Halloween\2015\SoundPlayer\SoundPlayer\SoundPlayer\obj\Debug\SoundPlayer_MarkupCompile.cache
+C:\Users\Chris\OneDrive\Halloween\2015\SoundPlayer\SoundPlayer\SoundPlayer\obj\Debug\SoundPlayer.g.resources
+C:\Users\Chris\OneDrive\Halloween\2015\SoundPlayer\SoundPlayer\SoundPlayer\obj\Debug\SoundPlayer.Properties.Resources.resources
+C:\Users\Chris\OneDrive\Halloween\2015\SoundPlayer\SoundPlayer\SoundPlayer\obj\Debug\SoundPlayer.csproj.GenerateResource.Cache
+C:\Users\Chris\OneDrive\Halloween\2015\SoundPlayer\SoundPlayer\SoundPlayer\obj\Debug\SoundPlayer.exe
+C:\Users\Chris\OneDrive\Halloween\2015\SoundPlayer\SoundPlayer\SoundPlayer\obj\Debug\SoundPlayer.pdb
